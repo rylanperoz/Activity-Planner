@@ -39,7 +39,7 @@ if category == "Time & Mood 🌀":
             "Evening": ["🍵 Chai & Charcha"],
             "Night": ["🔭 Stargazing"]
         },
-        "Energetic": {
+        "Energetic & Outdoorsy": {
             "Morning": ["🥕 Explore a nearby farmer's market"],
             "Noon": ["🏛️ Visit some local attractions"],
             "Evening": ["🌳 Explore a nearby park or garden"],
@@ -93,3 +93,4 @@ st.markdown(
     "<div style='text-align: center;'>📅 19.09.2025 &nbsp;&nbsp;|&nbsp;&nbsp; 📍 Aachen <br>Curated by Subject Rizz for Queen Bee</div>",
     unsafe_allow_html=True
 )
+
